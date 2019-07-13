@@ -1,7 +1,28 @@
-/* #bg{ */
-    /* z-index: -1;
-    width: 75%; 
-    position: fixed;
-   } */
 
+body{
+    background-color: bisque;
+    width: 100%;
+    height :auto;
+    position : fixed;
+    image-resolution: 100%;
+    margin-bottom: 20px;
+}
+img {
+    margin-left: 625px;
+    }
+h1 {
+    text-align: center;
+    font-size: 34px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+
+}
+h2 {
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 32px;
+}
+p{
+    text-align: center;
+    font-size: 24px;
+}
    
