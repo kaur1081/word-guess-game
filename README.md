@@ -15,3 +15,4 @@ This was interesting project to as it was one of my first javascript project.
 - math.random
 
 
+## Developer: Karishma Hattar
