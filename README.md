@@ -4,7 +4,8 @@ Deploy Link for Psychic Game/Word Guess Game!
 (https://kaur1081.github.io/word-guess-game/)
 
 ## Overview
-Here user needs to guess random alphabet
-was interesting as it was one of the first project 
+In this game user needs to guess random alphabet and with the correct answer match you win the game.
+This was interesting project to as it was one of my first javascript project.
+
 html/css/js were used
 math.random was applied
