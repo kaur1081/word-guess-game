@@ -22,6 +22,7 @@ body{
     padding: 30px;
     width: 100%;
     background-color:  rgb(25, 21, 49);
+    color: white;
     height: 300px; /* only for demonstration, should be removed */
     margin: 0px;
   }
