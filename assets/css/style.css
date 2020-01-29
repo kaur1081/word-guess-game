@@ -56,5 +56,15 @@ section:after {
     display: table;
     clear: both;
   }
+  /* Responsive layout - makes the two columns/boxes stack on top of each other instead of next to each other, on small screens */
+@media (max-width: 600px) {
+    header, article {
+      width: 100%;
+      height: auto;
+    }
+    img{
+       margin-left: 250px; 
+    }
+  }
   
    
