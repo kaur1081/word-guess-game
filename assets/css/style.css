@@ -1,15 +1,16 @@
 
 body{
-    background-color: rgb(141, 164, 194);
-    width: 100%;
-    height :auto;
-    position : fixed;
+    /* background-image: url(assets/images/Critical-Thinking-Skills.png); */
+    background-color: rgb(141, 164, 194); 
+    width: 100%; 
+    height: auto;
+    position: fixed; 
     image-resolution: 100%;
     margin-bottom: 20px;
-}
-img {
+ }
+ img {
     margin-left: 625px;
-    }
+    } 
 h1 {
     text-align: center;
     font-size: 34px;
@@ -24,5 +25,10 @@ h2 {
 p{
     text-align: center;
     font-size: 24px;
+}
+#bg{
+    max-height: 200px;
+    opacity:.8;
+
 }
    
